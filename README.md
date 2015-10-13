@@ -1,5 +1,4 @@
 SonarQube Plugin for Objective C
-================================
 
 This repository hosts the Objective-C plugin for [SonarQube](http://www.sonarqube.org/). This plugin enables to analyze and track the quality of iOS (iPhone, iPad) and MacOS developments.
 
@@ -86,3 +85,5 @@ If you still have *run-sonar.sh* file in each of your project (not recommended),
 
 SonarQube Plugin for Objective C is released under the GNU LGPL 3 license:  
 http://www.gnu.org/licenses/lgpl.txt
+
+# Sonar-Objective-C-plugin
